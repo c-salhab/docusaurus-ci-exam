@@ -24,7 +24,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "cicd__actions",
+    "git-widget-placeholder": "dev",
     "last_opened_file_path": "C:/Users/csalhab/OneDrive/Online Sessions/3iabd1/Outils et pratiques du code  versioning, métriques, tests/docusaurus-ci-exam",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721829414668</updated>
       <workItem from="1721829415788" duration="299000" />
-      <workItem from="1721829719882" duration="430000" />
+      <workItem from="1721829719882" duration="746000" />
     </task>
     <servers />
   </component>
