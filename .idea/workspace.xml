@@ -5,8 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3307ebc9-46a1-474a-8319-273930d72ea2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/blog/2019-05-28-first-blog-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/blog/2019-05-29-long-blog-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/blog/2021-08-01-mdx-blog-post.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/blog/2021-08-26-welcome/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/blog/authors.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/blog/tags.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-basics/_category_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-basics/congratulations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-basics/create-a-blog-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-basics/create-a-document.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-basics/create-a-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-basics/deploy-your-site.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-basics/markdown-features.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-extras/_category_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-extras/img/docsVersionDropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-extras/img/localeDropdown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-extras/manage-docs-versions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docs/tutorial-extras/translate-your-site.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/docusaurus.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/sidebars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/src/components/HomepageFeatures/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/src/components/HomepageFeatures/styles.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/src/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/src/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/src/pages/index.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/src/pages/markdown-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/static/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/static/img/docusaurus-social-card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/static/img/docusaurus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/static/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/static/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/static/img/undraw_docusaurus_mountain.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/static/img/undraw_docusaurus_react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-website/static/img/undraw_docusaurus_tree.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
