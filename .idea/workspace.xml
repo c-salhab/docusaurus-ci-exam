@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3307ebc9-46a1-474a-8319-273930d72ea2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
-    </list>
+    <list default="true" id="3307ebc9-46a1-474a-8319-273930d72ea2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +26,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "cicd__actions",
     "last_opened_file_path": "C:/Users/csalhab/OneDrive/Online Sessions/3iabd1/Outils et pratiques du code  versioning, métriques, tests/docusaurus-ci-exam",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721829414668</updated>
       <workItem from="1721829415788" duration="299000" />
-      <workItem from="1721829719882" duration="92000" />
+      <workItem from="1721829719882" duration="430000" />
     </task>
     <servers />
   </component>
